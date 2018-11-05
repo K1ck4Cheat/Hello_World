@@ -1,2 +1,3 @@
 # Hello_World
-It comes o be my beginning
+It comes to be my beginning
+#Please don't judge me hard!
